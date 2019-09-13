@@ -1,0 +1,22 @@
+{
+  "name": "Guias de Parede",
+  "description": "Algumas tabelas com informações rápidas para consultórios de UBS.",
+  "version": "0.1.0",
+  "maintainers": [
+    {
+      "name": "Igor Padoim",
+      "email": "igorpadoim@gmail.com",
+      "web": "https://nereare.github.io"
+    }
+  ],
+  "bugs": {
+    "web": "https://github.com/Nereare/guias-de-parede/issues"
+  },
+  "licenses": [
+    {
+      "name": "Creative Commons Attribution-ShareAlike 4.0",
+      "url": "http://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ],
+  "homepage": ""
+}

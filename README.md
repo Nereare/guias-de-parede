@@ -1,5 +1,9 @@
 # Guias de Parede
 
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/Nereare/guias-de-parede)](https://github.com/Nereare/guias-de-parede)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Nereare/guias-de-parede)](https://github.com/Nereare/guias-de-parede/releases)
+[![GitHub](https://img.shields.io/github/license/Nereare/guias-de-parede)](LICENSE.md)
+
 Esse projeto é primariamente gráfico, voltado a criar guias rápidos de assistência em atenção básica.
 
 Os guias contidos nesse projeto **não substituem assistência médica capacitada** e **não devem ser usados sem suporte de um profissional de saúde capacitado**.
