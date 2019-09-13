@@ -2,17 +2,17 @@
 
 Esse projeto é primariamente gráfico, voltado a criar guias rápidos de assistência em atenção básica.
 
-Os guias contidos nesse projeto **não substituem assistência médica capacitada** e ***não* devem ser usados sem suporte de um profissional de saúde capacitado**.
+Os guias contidos nesse projeto **não substituem assistência médica capacitada** e **não devem ser usados sem suporte de um profissional de saúde capacitado**.
 
 ## Uso
 
-Baixe os arquivos de PDF e os imprima.
+Baixe os arquivos exportados da [última versão](https://github.com/Nereare/guias-de-parede/releases) e os imprima.
 
 **Disclaimer:** esses arquivos contêm dados médicos, eles não substituem aconselhamento profissional e são destinados a uso por profissionais.
 
 ## Contribuindo
 
-Esse projeto usa *InDesign* e *Illustrator*, sendo eles necessários para editar os arquivos fontes.
+Esse projeto usa *InDesign* e *Illustrator* da Adobe, sendo eles necessários para editar os arquivos fontes.
 
 1. Clone o repositório;
 2. Os edite para suas necessidades;
