@@ -6,7 +6,7 @@
 
 Esse projeto é primariamente gráfico, voltado a criar guias rápidos de assistência em atenção básica.
 
-Os guias contidos nesse projeto **não substituem assistência médica capacitada** e **não devem ser usados sem suporte de um profissional de saúde capacitado**.
+**Ao usar os conteúdos desse projeto, você assume estar ciente dos nossos [objetivos e limitações](ABOUT.md).**
 
 ## Uso
 
