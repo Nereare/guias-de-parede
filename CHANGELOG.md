@@ -27,6 +27,8 @@ Retirados de [Keep a Changelog](http://keepachangelog.com/):
 
 ## [Não Publicado]
 
+## [0.1.0] - `2019-09-13`
+
 ### Added/Adicionado
 * Código de Conduta de [Contributor Covenant v1.4.1](https://www.contributor-covenant.org/).
 * [Licensa](LICENSE.md).
