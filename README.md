@@ -1,4 +1,4 @@
-# [Guias de Parede](https://github.com/Nereare/guias-de-parede)
+# Guias de Parede
 
 Esse projeto é primariamente gráfico, voltado a criar guias rápidos de assistência em atenção básica.
 
