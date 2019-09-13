@@ -12,9 +12,9 @@ Procure a Unidade Básica de Saúde mais próxima da sua residência! :hospital:
 
 O uso desses materiais é feito por escolha do profissional.
 
-Este projeto e seus membros não se responsabilizam por qualquer informação ou uso dessa tabela. Qualquer inacurácia ou desatualização devem ser remediados por estudo do próprio profissional, o qual, ao usar esses guias, assume responsabilidade para si no caso de uso de informação destualizada ou inacurada.
+Este projeto e seus membros não se responsabilizam por qualquer informação contida em seus materiais ou uso inadequado desses. Qualquer inacurácia ou desatualização devem ser remediados por estudo do próprio profissional, o qual, ao usar esses guias, assume responsabilidade para si no caso de uso de informação destualizada ou inacurada, uma vez que sua conduta pessoal é exclusivamente de sua resposabilidade.
 
-Esse projeto é **fonte aberta** (*open source*), portanto nós encorajamos não só o uso dos recursos, mas a participação [saudável](CODE-OF-CONDUCT.md) para [melhorar o conteúdo disponível](CONTRIBUTING.md).
+Esse projeto é **fonte aberta** (*open source*), portanto nós encorajamos não só o uso dos recursos, mas a participação [saudável](CODE-OF-CONDUCT.md) para [melhorar o conteúdo disponível](CONTRIBUTING.md), permitindo que estes estejam sempre o mais atualizados o possível.
 
 ## Aviso Ético
 
