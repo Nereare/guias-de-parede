@@ -1,0 +1,45 @@
+####################################################
+#              ToDo Bot Configuration              #
+####################################################
+todo:
+  autoAssign: true
+  exclude: "\.gitattributes"
+
+####################################################
+#             Welcome Bot Configuration            #
+####################################################
+#                new-issue-welcome                 #
+# https://github.com/behaviorbot/new-issue-welcome #
+####################################################
+newIssueWelcomeComment: >
+  Obrigado por abrir seu primeiro *ticket* nesse repositório! :sparkles:
+
+  Nós temos templates prontos para problemas, e pedimos que eles sejam usados.
+
+  Note também que nós seguimos um **[Código de Conduta](CODE-OF-CONDUCT.md)**. Por favor, o leia.
+
+  Os :busts_in_silhouette: humanos estarão aqui em breve para avaliar seu problema! E obrigado novamente por seu primeiro *ticket*! :tada:
+####################################################
+#                  new-pr-welcome                  #
+# https://github.com/behaviorbot/new-pr-welcome    #
+####################################################
+newPRWelcomeComment: >
+  Obrigado por abrir seu primeiro *pull request*! :octocat:
+
+  Por favor, leia nossos **[Guidelines de Contribuição](CONTRIBUTING.md)** e nosso **[Código de Conduta](CODE-OF-CONDUCT.md)**.
+####################################################
+#                  first-pr-merge                  #
+# https://github.com/behaviorbot/first-pr-merge    #
+####################################################
+firstPRMergeComment: Parabéns por fundir seu primeiro *pull request*! :+1:
+####################################################
+#            Sentiment Bot Configuration           #
+####################################################
+#                  sentiment-bot                   #
+# https://github.com/behaviorbot/sentiment-bot     #
+####################################################
+sentimentBotToxicityThreshold: .7
+sentimentBotReplyComment: >
+  Reveja nosso **[Código de Conduta](CODE-OF-CONDUCT.md)** e respeite todos em toda interação nesse projeto (mas não restrito a ele).
+
+  O humano @Nereare estará aqui em breve para rever essa interação.
