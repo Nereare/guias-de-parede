@@ -29,10 +29,10 @@ Esse projeto usa *InDesign* e *Illustrator* da Adobe, sendo eles necessários pa
 
 [![Licença Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-Este obra está licenciado com uma Licença [Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/).
+[Guias de Parede](https://github.com/Nereare/guias-de-parede) de [Igor Padoim](https://github.com/Nereare) está licenciado com uma Licença [Creative Commons - Atribuição-CompartilhaIgual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ### English (en)
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+[Guias de Parede](https://github.com/Nereare/guias-de-parede) by [Igor Padoim](https://github.com/Nereare) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
