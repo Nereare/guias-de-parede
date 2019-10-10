@@ -5,6 +5,16 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Não Publicado]
 
+## [0.2.1] - `2019-10-10`
+
+### Added/Adicionado
+* Tabela de Cálculo de Idade Gestacional/Erro de Data, baseado em *Zugaib M, et al. Protocolos Assistenciais da Clínica Obstétrica da FMUSP. 5a Edição.*
+* Protocolo Mãe Paulistana de indicação de USG morfológico na UBS.
+* Regra para ignorar arquivos temporários de *InDesign*.
+
+### Changed/Modificado
+* Atualizada notificação de licensa Creative Commons na tabela principal do Mãe Paulistana.
+
 ## [0.1.0] - `2019-09-13`
 
 ### Added/Adicionado
