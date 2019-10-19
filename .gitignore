@@ -98,3 +98,7 @@ $RECYCLE.BIN/
 
 # Adobe Temp Files
 *.idlk
+
+# Non-Shareable Files
+*JVA*
+*jva*
