@@ -5,8 +5,11 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Não Publicado]
 
+## [0.4.2] - `2019-10-19`
+
 ### Added/Adicionado
 * SADTs (Serviço de Apoio Diagnóstico Terapêutico) para condições mais comuns, e rastreamentos mais frequentes.
+* Receituários para as patologias mais comuns cujo tratamento é protocolar, assim como receituários para puericultura e gestantes.
 
 ### Changed/Modificado
 * Protocolo Mãe Paulistana - sorologias agora cobradas no 2º Trimestre devido ao estado epidemiológico de surto de Sífilis.
@@ -38,6 +41,7 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 * Arquivo de Guidelines de Contribuição.
 * Guia do Mãe Paulistana.
 
-[Unreleased]: https://github.com/Nereare/guias-ubs/compare/v0.2.1...HEAD
+[Unreleased]: https://github.com/Nereare/guias-ubs/compare/v0.4.2...HEAD
+[0.4.2]: https://github.com/Nereare/guias-ubs/compare/v0.2.1...v0.4.2
 [0.2.1]: https://github.com/Nereare/guias-ubs/compare/v0.1.0...v0.2.1
 [0.1.0]: https://github.com/Nereare/guias-ubs/releases/tag/v0.0.1
