@@ -1,5 +1,5 @@
 {
-  "name": "Guias de Parede",
+  "name": "Guias UBS",
   "description": "Algumas tabelas com informações rápidas para consultórios de UBS.",
   "version": "0.2.1",
   "maintainers": [
@@ -10,7 +10,7 @@
     }
   ],
   "bugs": {
-    "web": "https://github.com/Nereare/guias-de-parede/issues"
+    "web": "https://github.com/Nereare/guias-ubs/issues"
   },
   "licenses": [
     {

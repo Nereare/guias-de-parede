@@ -1,4 +1,4 @@
-# Sobre o *Guias de Parede*
+# Sobre o *Guias UBS*
 
 ## :warning: IMPORTANTE
 
@@ -22,7 +22,7 @@ De acordo com os princípios éticos vigentes [[1], [2]], esse projeto tem por o
 
 Esse projeto **não se destina a assistência direta**, nós **não oferecemos consultas ou suporte clínico** através desse projeto, e nem o projeto nem nenhum de seus membros **pedirá dados pessoais** em nenhum momento para do projeto.
 
-O *Guias de Parede* é um recurso exclusivamente didático e não recebe suporte, financeiro ou de qualquer outra natureza, de nenhuma empresa. O projeto é voluntário e todos os seus membros participam sem fins lucrativos pessoais.
+O *Guias UBS* é um recurso exclusivamente didático e não recebe suporte, financeiro ou de qualquer outra natureza, de nenhuma empresa. O projeto é voluntário e todos os seus membros participam sem fins lucrativos pessoais.
 
 [1]: https://www.cremesp.org.br/?siteAcao=Publicacoes&acao=detalhes_capitulos&cod_capitulo=26
 [2]: https://www.cremesp.org.br/?siteAcao=Publicacoes&acao=detalhes_capitulos&cod_capitulo=27
