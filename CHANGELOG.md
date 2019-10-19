@@ -13,7 +13,7 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ### Changed/Modificado
 * Protocolo Mãe Paulistana - sorologias agora cobradas no 2º Trimestre devido ao estado epidemiológico de surto de Sífilis.
-* Protocolo Mãe Paulistana - sorologia para toxo mensal na gestante susceptível a toxoplasmose no 1º trimestre.
+* Protocolo Mãe Paulistana - sorologia para toxo trimestral na gestante susceptível a toxoplasmose no 1º trimestre.
 
 ## [0.2.1] - `2019-10-10`
 
