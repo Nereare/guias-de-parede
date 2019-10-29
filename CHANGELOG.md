@@ -5,6 +5,12 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Não Publicado]
 
+## [0.5.2] - `2019-10-29`
+
+### Added/Adicionado
+* SADT para seguimento de pacientes com Tuberculose.
+* Receituários para RIPE (rifampicina + isoniazida + pirazinamida + etambutol) e RI (rifampicina + isoniazida).
+
 ## [0.4.2] - `2019-10-19`
 
 ### Added/Adicionado
