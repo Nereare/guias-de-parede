@@ -5,6 +5,12 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Não Publicado]
 
+### Changed/Modificado
+* Receituários:
+  - *Gestante &lt;14sem*: Removido repelente;
+  - *Gestante &gt;16sem*: Removido repelente e paracetamol;
+  - Repelente em algumas UBSs é distribuído diretamente no setor Mãe Paulistana, não na farmácia.
+
 ## [0.5.2] - `2019-10-29`
 
 ### Added/Adicionado
