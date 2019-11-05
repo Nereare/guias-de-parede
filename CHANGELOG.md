@@ -3,7 +3,9 @@ Todas as mudanças significativas nesse projeto serão documentadas neste arquiv
 
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), e este projeto adere ao [Versionamento Semântico](https://semver.org/spec/v2.0.0.html).
 
-## [Não Publicado]
+## [Não Publicado][Unreleased]
+
+## [0.6.3] - `2019-11-05`
 
 ### Added/Adicionado
 * Filipetas de retorno.
@@ -56,7 +58,8 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 * Arquivo de Guidelines de Contribuição.
 * Guia do Mãe Paulistana.
 
-[Unreleased]: https://github.com/Nereare/guias-ubs/compare/v0.5.2...HEAD
+[Unreleased]: https://github.com/Nereare/guias-ubs/compare/v0.6.3...HEAD
+[0.6.3]: https://github.com/Nereare/guias-ubs/compare/v0.5.2...v0.6.3
 [0.5.2]: https://github.com/Nereare/guias-ubs/compare/v0.4.2...v0.5.2
 [0.4.2]: https://github.com/Nereare/guias-ubs/compare/v0.2.1...v0.4.2
 [0.2.1]: https://github.com/Nereare/guias-ubs/compare/v0.1.0...v0.2.1
