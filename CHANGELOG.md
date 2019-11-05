@@ -5,6 +5,9 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Não Publicado]
 
+### Added/Adicionado
+* Filipetas de retorno.
+
 ### Changed/Modificado
 * Receituários:
   - *Gestante &lt;14sem*: Removido repelente;
