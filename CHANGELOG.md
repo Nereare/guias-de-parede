@@ -5,6 +5,18 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Não Publicado][Unreleased]
 
+## [0.8.4] - `2019-12-04`
+
+### Added/Adicionado
+* Filipeta de teste de gravidez urinário:
+  - Modelo para solicitação *impromptu*;
+  - Modelo para grupo de troca de receitas.
+
+### Changed/Modificado
+* SADTs:
+  - Rastreio genérico agora inclui sorologias para HIV, Sífilis e Hepatites B e C.
+  - Seguimento de HAS/DM movido para arquivo próprio, agora inclui também sorologias e radiografia de tórax.
+
 ## [0.6.4] - `2019-11-07`
 
 ### Changed/Modificado
@@ -65,7 +77,8 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 * Arquivo de Guidelines de Contribuição.
 * Guia do Mãe Paulistana.
 
-[Unreleased]: https://github.com/Nereare/guias-ubs/compare/v0.6.4...HEAD
+[Unreleased]: https://github.com/Nereare/guias-ubs/compare/v0.8.4...HEAD
+[0.8.4]: https://github.com/Nereare/guias-ubs/compare/v0.6.4...v0.8.4
 [0.6.4]: https://github.com/Nereare/guias-ubs/compare/v0.6.3...v0.6.4
 [0.6.3]: https://github.com/Nereare/guias-ubs/compare/v0.5.2...v0.6.3
 [0.5.2]: https://github.com/Nereare/guias-ubs/compare/v0.4.2...v0.5.2
