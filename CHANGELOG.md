@@ -5,6 +5,10 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Não Publicado][Unreleased]
 
+### Changed/Modificado
+* Receituário de gestantes acima de 16 semanas:
+  - Carbonato de cálcio agora com número de semanas de uso, ao invés de generizar "até 37sem".
+
 ## [0.8.4] - `2019-12-04`
 
 ### Added/Adicionado
