@@ -8,6 +8,10 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Changed/Modificado
 * Receituário de gestantes acima de 16 semanas:
   - Carbonato de cálcio agora com número de semanas de uso, ao invés de generizar "até 37sem".
+* Receituários de puericultura com:
+  - Metade apenas Adtil, metade Adtil e sulfato ferroso;
+  - Duas metades apenas Adtil; e
+  - Duas metades Adtil e sulfato ferroso.
 
 ## [0.8.4] - `2019-12-04`
 
