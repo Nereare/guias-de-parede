@@ -102,3 +102,17 @@ $RECYCLE.BIN/
 # Non-Shareable Files
 *JVA*
 *jva*
+
+# Office Files
+*.doc
+*.DOC
+*.docx
+*.DOCX
+*.dot
+*.DOT
+*.pdf
+*.PDF
+*.xls
+*.XLS
+*.xlsx
+*.XLSX
