@@ -10,6 +10,9 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - Atorvastatina; e
   - Clopidogrel.
 
+### Changed/Modificado
+* Logo de Pueri.
+
 ## [0.9.5] - `2019-12-09`
 
 ### Changed/Modificado
