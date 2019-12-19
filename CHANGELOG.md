@@ -5,6 +5,11 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Não Publicado][Unreleased]
 
+### Added/Adicionado
+* Kits de Alto Custo:
+  - Atorvastatina; e
+  - Clopidogrel.
+
 ## [0.9.5] - `2019-12-09`
 
 ### Changed/Modificado
