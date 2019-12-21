@@ -5,6 +5,10 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Não Publicado][Unreleased]
 
+### Changed/Modificado
+* Adicionado espaço para hora nas filipetas de Pregnosticon para grupo.
+* Campo de nome do paciente nas filipetas de Pregnosticon (ambas) agora na camada da filipeta de modo a possibilitar mala direta (*data merge*).
+
 ## [0.11.6] - `2019-12-19`
 
 ### Added/Adicionado
