@@ -5,6 +5,11 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Não Publicado][Unreleased]
 
+### Added/Adicionado
+* Filipetas de convocação para Grupos.
+* Criado modelo de arquivo `CSV` para mala direta de convocação de Grupos.
+  - ***Disclaimer:*** Dados do modelos são exemplos, com nomes gerados por computador, e não se referem a pessoas reais.
+
 ### Changed/Modificado
 * Adicionado espaço para hora nas filipetas de Pregnosticon para grupo.
 * Campo de nome do paciente nas filipetas de Pregnosticon (ambas) agora na camada da filipeta de modo a possibilitar mala direta (*data merge*).
