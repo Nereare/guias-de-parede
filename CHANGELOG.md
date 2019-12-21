@@ -5,6 +5,8 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Não Publicado][Unreleased]
 
+## [0.12.7] - `2019-12-21`
+
 ### Added/Adicionado
 * Filipetas de convocação para Grupos.
 * Criado modelo de arquivo `CSV` para mala direta de convocação de Grupos.
@@ -106,7 +108,8 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 * Arquivo de Guidelines de Contribuição.
 * Guia do Mãe Paulistana.
 
-[Unreleased]: https://github.com/Nereare/guias-ubs/compare/v0.11.6...HEAD
+[Unreleased]: https://github.com/Nereare/guias-ubs/compare/v0.12.7...HEAD
+[0.12.7]: https://github.com/Nereare/guias-ubs/compare/v0.11.6...v0.12.7
 [0.11.6]: https://github.com/Nereare/guias-ubs/compare/v0.9.5...v0.11.6
 [0.9.5]: https://github.com/Nereare/guias-ubs/compare/v0.8.4...v0.9.5
 [0.8.4]: https://github.com/Nereare/guias-ubs/compare/v0.6.4...v0.8.4
