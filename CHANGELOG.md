@@ -7,6 +7,7 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ### Added/Adicionado
 * Kits de Alto Custo:
+  - Codeína;
   - Gabapentina.
 
 ## [0.12.7] - `2019-12-21`
