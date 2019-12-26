@@ -10,6 +10,9 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - Codeína;
   - Gabapentina.
 
+### Fixed/Corrigido
+* Filipetas de convocação para Grupos agora são genéricas, e não específicas para grupo Psico.
+
 ## [0.12.7] - `2019-12-21`
 
 ### Added/Adicionado
