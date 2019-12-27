@@ -9,6 +9,11 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 * Kits de Alto Custo:
   - Codeína;
   - Gabapentina.
+* Receituários de infecções sexualmente transmissíveis:
+  - Doença Inflamatória Pélvica:
+    - *Ceftriaxona* e *azitromicina* (esta última incluída devido a protocolo do município de São Paulo que indica tratar preemptivamente uretrites, por alguma razão) em dose única;
+    - *Doxiciclina* e *metronidazol* VO por 14 dias;
+  - Vaginose bacteriana.
 
 ### Fixed/Corrigido
 * Filipetas de convocação para Grupos agora são genéricas, e não específicas para grupo Psico.
