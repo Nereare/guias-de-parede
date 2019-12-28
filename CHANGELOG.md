@@ -5,6 +5,8 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Não Publicado][Unreleased]
 
+## [0.20.8] - `2019-12-28`
+
 ### Added/Adicionado
 * Kits de Alto Custo:
   - Fenofibrato.
@@ -130,7 +132,8 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 * Arquivo de Guidelines de Contribuição.
 * Guia do Mãe Paulistana.
 
-[Unreleased]: https://github.com/Nereare/guias-ubs/compare/v0.18.8...HEAD
+[Unreleased]: https://github.com/Nereare/guias-ubs/compare/v0.20.8...HEAD
+[0.20.8]: https://github.com/Nereare/guias-ubs/compare/v0.18.8...v0.20.8
 [0.18.8]: https://github.com/Nereare/guias-ubs/compare/v0.12.7...v0.18.8
 [0.12.7]: https://github.com/Nereare/guias-ubs/compare/v0.11.6...v0.12.7
 [0.11.6]: https://github.com/Nereare/guias-ubs/compare/v0.9.5...v0.11.6
