@@ -5,6 +5,10 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Não Publicado][Unreleased]
 
+### Added/Adicionado
+* Kits de Alto Custo:
+  - Fenofibrato.
+
 ## [0.18.8] - `2019-12-27`
 
 ### Added/Adicionado
