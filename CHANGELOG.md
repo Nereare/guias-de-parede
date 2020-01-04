@@ -9,6 +9,9 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 * Projeto de Acupuntura:
   - Logos colorido e preto-e-branco.
 
+### Changed/Modificado
+* Transicionado maior parte do projeto para a [Licensa Hipocrática](https://firstdonoharm.dev/).
+
 ## [0.20.8] - `2019-12-28`
 
 ### Added/Adicionado

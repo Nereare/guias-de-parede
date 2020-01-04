@@ -25,14 +25,16 @@ Esse projeto usa *InDesign* e *Illustrator* da Adobe, sendo eles necessários pa
 
 ## Licença
 
-### Português (pt-BR)
+Este projeto está sob duas licensas:
 
-[![Licença Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+### Guias Mãe Paulistana
 
-[Guias UBS](https://github.com/Nereare/guias-ubs) de [Igor Padoim](https://github.com/Nereare) está licenciado com uma Licença [Creative Commons - Atribuição-CompartilhaIgual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/).
+[![Licença Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](CC-BY-SA.md)
 
-### English (en)
+[Guias UBS - Mãe Paulistana](https://github.com/Nereare/guias-ubs) de [Igor Padoim](https://github.com/Nereare) está licenciado com uma Licença [Creative Commons - Atribuição-CompartilhaIgual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/).
 
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+### Demais Projeto
 
-[Guias UBS](https://github.com/Nereare/guias-ubs) by [Igor Padoim](https://github.com/Nereare) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+[![Hippocratic License](https://i.imgur.com/DEKS3nm.png)](LICENSE.md)
+
+Todas as demais partes deste projeto estão disponíveis sob a [Licensa Hipocrática](https://firstdonoharm.dev/).
