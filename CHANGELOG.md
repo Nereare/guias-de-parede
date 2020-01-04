@@ -5,6 +5,8 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Não Publicado][Unreleased]
 
+## [0.25.9] - `2020-01-04`
+
 ### Added/Adicionado
 * Projeto de Acupuntura:
   - Logos colorido e preto-e-branco;
@@ -146,7 +148,8 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 * Arquivo de Guidelines de Contribuição.
 * Guia do Mãe Paulistana.
 
-[Unreleased]: https://github.com/Nereare/guias-ubs/compare/v0.20.8...HEAD
+[Unreleased]: https://github.com/Nereare/guias-ubs/compare/v0.25.9...HEAD
+[0.25.9]: https://github.com/Nereare/guias-ubs/compare/v0.20.8...v0.25.9
 [0.20.8]: https://github.com/Nereare/guias-ubs/compare/v0.18.8...v0.20.8
 [0.18.8]: https://github.com/Nereare/guias-ubs/compare/v0.12.7...v0.18.8
 [0.12.7]: https://github.com/Nereare/guias-ubs/compare/v0.11.6...v0.12.7
