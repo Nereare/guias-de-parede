@@ -14,6 +14,10 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Changed/Modificado
 * Transicionado maior parte do projeto para a [Licensa Hipocrática](https://firstdonoharm.dev/).
 
+### Fixed/Corrigido
+* Receita de Tuberculose (fase de manutenção): dose padrão é:
+  - Rifampicina 150mg + Isonizida 75mg.
+
 ## [0.20.8] - `2019-12-28`
 
 ### Added/Adicionado
