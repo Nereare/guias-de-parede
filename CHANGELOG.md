@@ -7,7 +7,9 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ### Added/Adicionado
 * Projeto de Acupuntura:
-  - Logos colorido e preto-e-branco.
+  - Logos colorido e preto-e-branco;
+  - Folha de evolução - Grupo Inicial;
+  - Cartão de Retornos - Grupo Inicial.
 
 ### Changed/Modificado
 * Transicionado maior parte do projeto para a [Licensa Hipocrática](https://firstdonoharm.dev/).
