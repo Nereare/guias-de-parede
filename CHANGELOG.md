@@ -5,6 +5,10 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Não Publicado][Unreleased]
 
+### Added/Adicionado
+* Projeto de Acupuntura:
+  - Logos colorido e preto-e-branco.
+
 ## [0.20.8] - `2019-12-28`
 
 ### Added/Adicionado
