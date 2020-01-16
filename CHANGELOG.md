@@ -5,6 +5,9 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Não Publicado][Unreleased]
 
+### Added/Adicionado
+* Modelo de Relatório Médico em A4, para relatórios mais complexos. Por enquanto apenas em formato `INDD`.
+
 ## [0.25.9] - `2020-01-04`
 
 ### Added/Adicionado
