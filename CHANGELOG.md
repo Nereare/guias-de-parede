@@ -10,6 +10,9 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ### Changed/Modificado
 * Adicionado CID-10 no SADT de Ultrassonografia obstétrica (`Z34.9`).
+* SADTs de gestante:
+  - Todos os trimestres agora incluem TSH e T4 livre;
+  - Substituído coombs indireto por teste de tolerância oral a glicose nos SADTs miscelâneos.
 
 ## [0.25.9] - `2020-01-04`
 
