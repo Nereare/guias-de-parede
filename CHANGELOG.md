@@ -7,12 +7,16 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ### Added/Adicionado
 * Modelo de Relatório Médico em A4, para relatórios mais complexos. Por enquanto apenas em formato `INDD`.
+* Receita para candidíase vaginal.
 
 ### Changed/Modificado
 * Adicionado CID-10 no SADT de Ultrassonografia obstétrica (`Z34.9`).
 * SADTs de gestante:
   - Todos os trimestres agora incluem TSH e T4 livre;
   - Substituído coombs indireto por teste de tolerância oral a glicose nos SADTs miscelâneos.
+
+### Fixed/Corrigido
+* Erro gramatical na receita de vaginose bacteriana.
 
 ## [0.25.9] - `2020-01-04`
 
