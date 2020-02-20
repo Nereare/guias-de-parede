@@ -10,6 +10,7 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 * Receita para candidíase vaginal.
 * Modelo de prontuário para coleta de CCO.
 * Ícone de Saúde Feminina.
+* Receituário de AC apenas com Medroxiprogesterona.
 
 ### Changed/Modificado
 * Adicionado CID-10 no SADT de Ultrassonografia obstétrica (`Z34.9`).
