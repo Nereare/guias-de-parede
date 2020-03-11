@@ -13,6 +13,10 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 * Receituário de AC apenas com Medroxiprogesterona.
 * SADT para seguimento de Insuficiência Renal Crônica, com perfil de ferro completo.
 * SADT para seguimento de pacientes com HAS e/ou DM, simplificado (apenas exames séricos e de urina).
+* SADTs para grupo de Planejamento Familiar:
+  - Base com hemograma completo, glicemia e sorologias;
+  - Coagulograma (2 por folha A4); e
+  - ECG e Radiografia de tórax para pacientes acima de 45 anos.
 
 ### Changed/Modificado
 * Adicionado CID-10 no SADT de Ultrassonografia obstétrica (`Z34.9`).
