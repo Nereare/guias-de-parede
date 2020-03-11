@@ -11,12 +11,16 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 * Modelo de prontuário para coleta de CCO.
 * Ícone de Saúde Feminina.
 * Receituário de AC apenas com Medroxiprogesterona.
+* SADT para seguimento de Insuficiência Renal Crônica, com perfil de ferro completo.
+* SADT para seguimento de pacientes com HAS e/ou DM, simplificado (apenas exames séricos e de urina).
 
 ### Changed/Modificado
 * Adicionado CID-10 no SADT de Ultrassonografia obstétrica (`Z34.9`).
 * SADTs de gestante:
   - Todos os trimestres agora incluem TSH e T4 livre;
   - Substituído coombs indireto por teste de tolerância oral a glicose nos SADTs miscelâneos.
+* Atualizada [Licensa](LICENSE.md) para [versão 2.0](https://firstdonoharm.dev/version/2/0/license.html).
+* Filipeta de retorno agora lista apenas `Pré-Natal`, `Pueri` e campo por-preencher, tamanho dos campos aumentado.
 
 ### Fixed/Corrigido
 * Erro gramatical na receita de vaginose bacteriana.
