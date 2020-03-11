@@ -5,6 +5,8 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Não Publicado][Unreleased]
 
+## [0.33.13] - `2020-03-11`
+
 ### Added/Adicionado
 * Modelo de Relatório Médico em A4, para relatórios mais complexos. Por enquanto apenas em formato `INDD`.
 * Receita para candidíase vaginal.
@@ -172,7 +174,8 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 * Arquivo de Guidelines de Contribuição.
 * Guia do Mãe Paulistana.
 
-[Unreleased]: https://github.com/Nereare/guias-ubs/compare/v0.25.9...HEAD
+[Unreleased]: https://github.com/Nereare/guias-ubs/compare/v0.33.13...HEAD
+[0.33.13]: https://github.com/Nereare/guias-ubs/compare/v0.25.9...v0.33.13
 [0.25.9]: https://github.com/Nereare/guias-ubs/compare/v0.20.8...v0.25.9
 [0.20.8]: https://github.com/Nereare/guias-ubs/compare/v0.18.8...v0.20.8
 [0.18.8]: https://github.com/Nereare/guias-ubs/compare/v0.12.7...v0.18.8
