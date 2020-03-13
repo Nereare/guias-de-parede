@@ -5,6 +5,14 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Não Publicado][Unreleased]
 
+### Added/Adicionado
+* Atestado com CID-10 e termo de aceite de liberação de diagnóstico.
+* Solicitação de adiantamento de licença maternidade.
+* Solicitação de licença amamentação de 15 dias corridos.
+
+### Fixed/Corrigido
+* Corrigido grafia de `licença` em diversas instâncias.
+
 ## [0.33.13] - `2020-03-11`
 
 ### Added/Adicionado
@@ -25,7 +33,7 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 * SADTs de gestante:
   - Todos os trimestres agora incluem TSH e T4 livre;
   - Substituído coombs indireto por teste de tolerância oral a glicose nos SADTs miscelâneos.
-* Atualizada [Licensa](LICENSE.md) para [versão 2.0](https://firstdonoharm.dev/version/2/0/license.html).
+* Atualizada [Licença](LICENSE.md) para [versão 2.0](https://firstdonoharm.dev/version/2/0/license.html).
 * Filipeta de retorno agora lista apenas `Pré-Natal`, `Pueri` e campo por-preencher, tamanho dos campos aumentado.
 
 ### Fixed/Corrigido
@@ -41,7 +49,7 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - Guia de critérios de inclusão e exclusão do grupo.
 
 ### Changed/Modificado
-* Transicionado maior parte do projeto para a [Licensa Hipocrática](https://firstdonoharm.dev/).
+* Transicionado maior parte do projeto para a [Licença Hipocrática](https://firstdonoharm.dev/).
 
 ### Fixed/Corrigido
 * Receita de Tuberculose (fase de manutenção): dose padrão é:
@@ -156,13 +164,13 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 * Regra para ignorar arquivos temporários de *InDesign*.
 
 ### Changed/Modificado
-* Atualizada notificação de licensa Creative Commons na tabela principal do Mãe Paulistana.
+* Atualizada notificação de licença Creative Commons na tabela principal do Mãe Paulistana.
 
 ## [0.1.0] - `2019-09-13`
 
 ### Added/Adicionado
 * Código de Conduta de [Contributor Covenant v1.4.1](https://www.contributor-covenant.org/).
-* [Licensa](LICENSE.md).
+* [Licença](LICENSE.md).
 * Meta-arquivos git (`.gitignore` and `.gitattributes`).
 * Templates do GitHub:
   - *Issues*;

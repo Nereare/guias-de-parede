@@ -25,7 +25,7 @@ Esse projeto usa *InDesign* e *Illustrator* da Adobe, sendo eles necessários pa
 
 ## Licença
 
-Este projeto está sob duas licensas:
+Este projeto está sob duas licenças:
 
 ### Guias Mãe Paulistana
 
@@ -37,4 +37,4 @@ Este projeto está sob duas licensas:
 
 [![Hippocratic License](https://i.imgur.com/DEKS3nm.png)](LICENSE.md)
 
-Todas as demais partes deste projeto estão disponíveis sob a [Licensa Hipocrática](https://firstdonoharm.dev/).
+Todas as demais partes deste projeto estão disponíveis sob a [Licença Hipocrática](https://firstdonoharm.dev/).

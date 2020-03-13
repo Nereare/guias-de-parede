@@ -16,6 +16,6 @@ Antes de enviar um *pull request*, garanta que você conferiu este checklist.
 
 Para ambas as ações, esse projeto conta com *templates* específicos, favor use aquele mais adequado quando submeter um *issue*.
 
-## Licensa e Copyright
+## Licença e Copyright
 
-Favor note que contribuições aceitas são incluídas ao repositório e, portanto, estão sujeitas a sua [licensa](LICENSE.md). Ao submeter qualquer conteúdo a este repositório, você concorda em distribuir o conteúdo sob essa licensa.
+Favor note que contribuições aceitas são incluídas ao repositório e, portanto, estão sujeitas a sua [licença](LICENSE.md). Ao submeter qualquer conteúdo a este repositório, você concorda em distribuir o conteúdo sob essa licença.
