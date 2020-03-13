@@ -10,6 +10,9 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 * Solicitação de adiantamento de licença maternidade.
 * Solicitação de licença amamentação de 15 dias corridos.
 
+### Changed/Modificado
+* SADT para seguimento de IRC agora inclui `proteína total e frações`, `cálcio total` e `fósforo`.
+
 ### Fixed/Corrigido
 * Corrigido grafia de `licença` em diversas instâncias.
 
