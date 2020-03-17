@@ -9,6 +9,7 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 * Atestado com CID-10 e termo de aceite de liberação de diagnóstico.
 * Solicitação de adiantamento de licença maternidade.
 * Solicitação de licença amamentação de 15 dias corridos.
+* Receita de desogestrel 75mcg.
 
 ### Changed/Modificado
 * SADT para seguimento de IRC agora inclui `proteína total e frações`, `cálcio total` e `fósforo`.
