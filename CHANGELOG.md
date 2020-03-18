@@ -5,6 +5,8 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Não Publicado][Unreleased]
 
+## [0.39.15] - `2020-03-17`
+
 ### Added/Adicionado
 * Atestado com CID-10 e termo de aceite de liberação de diagnóstico.
 * Solicitação de adiantamento de licença maternidade.
@@ -188,7 +190,8 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 * Arquivo de Guidelines de Contribuição.
 * Guia do Mãe Paulistana.
 
-[Unreleased]: https://github.com/Nereare/guias-ubs/compare/v0.33.13...HEAD
+[Unreleased]: https://github.com/Nereare/guias-ubs/compare/v0.39.15...HEAD
+[0.39.15]: https://github.com/Nereare/guias-ubs/compare/v0.33.13...v0.39.15
 [0.33.13]: https://github.com/Nereare/guias-ubs/compare/v0.25.9...v0.33.13
 [0.25.9]: https://github.com/Nereare/guias-ubs/compare/v0.20.8...v0.25.9
 [0.20.8]: https://github.com/Nereare/guias-ubs/compare/v0.18.8...v0.20.8
