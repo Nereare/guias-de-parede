@@ -11,6 +11,7 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 * Solicitação de licença amamentação de 15 dias corridos.
 * Receita de desogestrel 75mcg.
 * Guia de doses de medicações.
+* Receita de sais de reidratação oral.
 
 ### Changed/Modificado
 * SADT para seguimento de IRC agora inclui `proteína total e frações`, `cálcio total` e `fósforo`.
