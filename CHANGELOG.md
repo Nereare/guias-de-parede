@@ -5,6 +5,9 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Não Publicado][Unreleased]
 
+### Added/Adicionado
+* Solititação de contrarreferência.
+
 ### Fixed/Corrigido
 * Corrigido grafia de `licença` em mais instâncias.
 * 14 dias de licença amamentação, ao invés de 15.
